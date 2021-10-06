@@ -2,8 +2,10 @@
 
 This is my project [Programming school](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## In This Website Using
+*Html
+*Css
+*React Bootstrap
+*React
 
-In the project directory, you can run:
-
-### `npm start`
+This is educational website.
