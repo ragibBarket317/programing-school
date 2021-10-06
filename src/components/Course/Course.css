@@ -1,0 +1,9 @@
+.card-style{
+    border: 0;
+    box-shadow: 0 5px 8px rgb(114, 109, 109);
+}
+img{
+    width: 100%;
+    height: 250px;
+    border-bottom: 1px solid lightgrey;
+}
