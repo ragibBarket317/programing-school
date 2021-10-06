@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './components/Home/Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -9,7 +8,7 @@ import Service from './components/Service/Service';
 import Footer from './components/Footer/Footer';
 import NotFound from './components/NotFound/NotFound';
 import Contact from './components/Contact/Contact';
-
+// Call All Router
 function App() {
   return (
     <div>
@@ -19,7 +18,7 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
-          <Route path="/service">
+          <Route path="/course">
             <Service></Service>
           </Route>
           <Route path="/about">

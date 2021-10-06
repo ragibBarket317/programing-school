@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-
+// Add navigation
 const Header = () => {
     return (
         <div>
@@ -18,7 +18,7 @@ const Header = () => {
                             <NavLink className="text-decoration-none text-white px-2" activeStyle={{
                                 fontWeight: "bold",
                                 color: "red"
-                            }} to="/service">Services</NavLink>
+                            }} to="/course">Courses</NavLink>
                             <NavLink className="text-decoration-none text-white px-2" activeStyle={{
                                 fontWeight: "bold",
                                 color: "red"

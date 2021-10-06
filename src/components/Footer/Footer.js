@@ -1,5 +1,5 @@
 import React from 'react';
-
+// Footer page
 const Footer = () => {
     return (
         <div className="bg-dark">

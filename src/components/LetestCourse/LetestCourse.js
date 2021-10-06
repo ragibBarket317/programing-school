@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import './LetestCourse.css'
-
+// Letest Course Section
 const LetestCourse = (props) => {
     const { img, title, mentor, price } = props.course;
     return (
